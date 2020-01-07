@@ -1,0 +1,7 @@
+Step 1. get two different numbers a and b as an input
+Step 2. first get sum and difference of both numbers
+Step 3. Take square of both results to eliminate negative
+Step 4. Do Square root for the results
+Step 5. Add both the results
+Step 6. Divide the value by 2
+Step 7. It will give the highest value among 2 numbers.
