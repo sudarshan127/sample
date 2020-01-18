@@ -1,0 +1,4 @@
+Select DepartmentId, MAX(salary)
+From Employee
+Where DepartmentId = 2
+Group By DepartmentId;

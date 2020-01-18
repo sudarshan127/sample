@@ -1,0 +1,2 @@
+Select * from Employee
+Where salary > select avg(salary) from employee;
